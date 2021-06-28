@@ -42,7 +42,7 @@
     "latlng-to-dms": "^1.0.2",
     "logrocket": "^1.0.1",
     "prism-react-renderer": "^0.1.7",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.24.0",
     "prop-types": "^15.6.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
